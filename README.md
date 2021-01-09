@@ -1,3 +1,3 @@
-# ice-cream-store
+# Ice Cream Store
 
-<a href="http://node.co.il/store-demo/" target="_blank">Open demo website</a>
+[Open demo website](http://node.co.il/store-demo/)
